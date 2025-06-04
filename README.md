@@ -29,7 +29,8 @@
 
 Puedes probar el sistema directamente en:
 
-🔗 [https://terranova.x10.mx/](https://terranova.x10.mx/**Usuario:** admin  
+🔗 [https://terranova.x10.mx/](https://terranova.x10.mx/)
+**Usuario:** admin  
 **Contraseña:** admin
 
 
