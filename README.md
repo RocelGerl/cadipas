@@ -10,7 +10,6 @@
 - ✅ Login y control de acceso
 - 🧠 Evaluación automática (por puntaje)
 - 📊 Visualización de resultados por equipo o individual
-- 📄 Generación de reportes en PDF
 - 🧮 Cálculo automático de puntajes
 - 🔐 Control de acceso para administradores
 
@@ -23,17 +22,15 @@
 - Bootstrap (estilos y responsividad)
 - JavaScript (interactividad)
 - MySQL (base de datos)
-- FPDF (generación de PDF)
 
 ---
-## Demo del sistema 
-https://terranova.x10.mx/
 
-Usuario: admin
-Password: admin
+## 🌐 Demo en línea
 
-## ⚙️ Instalación local (modo desarrollador)
+Puedes probar el sistema directamente en:
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/RocelGerl/cadipas.git
+🔗 [https://terranova.x10.mx/](https://terranova.x10.mx/**Usuario:** admin  
+**Contraseña:** admin
+
+
+
